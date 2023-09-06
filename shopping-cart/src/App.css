@@ -1,0 +1,17 @@
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.shopping-app{
+  justify-content: space-between;
+  background-color:steelblue;
+  padding:20px;
+  font-size:large;
+  font-weight: bold;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.product-item{
+  padding:10px
+}
